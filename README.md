@@ -1,6 +1,6 @@
 # git_practice
 
-## v1 want to revert
+## v1
 
 ## v2
 
